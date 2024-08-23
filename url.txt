@@ -1,1 +1,1 @@
-https://github.com/YoasAriel/projek-analisis/blob/main/dashboard.py
+https://jcc2o6ypzbssreps4wz4w5.streamlit.app/
