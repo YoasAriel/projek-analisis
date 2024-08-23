@@ -133,7 +133,7 @@ def data_visualization():
 
     #Total Revenue by Status
     st.subheader("Total Revenue by Status")
-    colors = ["#22d", "#72BCD4", "#72BCD4", "#72BCD4", "#72BCD4", "#72BCD4", "#72BCD4", "#72BCD4", "#72BCD4", "#72BCD4"]
+    colors = ["#22d", "#72BCD4", "#72BCD4", "#72BCD4", "#72BCD4", "#72BCD4", "#72BCD4", "#72BCD4"]
     plt.figure(figsize=(12, 6))
     sns.barplot(
         x="price", 
